@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <img src={image} width="100" height="100" />
+      <img src={image} width="100" height="100" alt="logo" />
       <h1>India :: Covid-19 Statistics</h1>
       <div className="actualStuff">
         <div className="card">
